@@ -1,0 +1,13 @@
+{
+  "name": "@test/utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "author": "Sumu",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "dependencies": {}
+}
